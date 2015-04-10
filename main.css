@@ -1,0 +1,9 @@
+a:link {color: #006699; font-family : "Tahoma"; font-size : 12px; text-decoration : none;}
+a:visited {color: #006699; font-family : "Tahoma"; font-size : 12px; text-decoration : none;}
+a:hover {color: #006699; font-family : "Tahoma"; font-size : 12px; text-decoration : underline;}
+
+
+.invisible {  font-family: Tahoma; font-size: 9px; font-weight:bold; color: #FFFFFF; text-decoration: none;}
+.language {  font-family: Tahoma; font-size: 9px; color: #006699; text-decoration: none;}
+.text {  font-family: Tahoma; font-size: 12px; color: #006699; text-decoration: none;}
+.footer {  font-family: Tahoma; font-size: 10px; color: #006699; text-decoration: none;}
